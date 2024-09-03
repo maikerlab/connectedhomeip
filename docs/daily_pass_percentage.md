@@ -1,13 +1,13 @@
 |                                         |   Pass Rate |
 |:----------------------------------------|------------:|
-| darwin                                  |           0 |
 | codeql                                  |           0 |
-| builds                                  |         100 |
 | build-example-qpg                       |         100 |
-| test-tv-casting-example                 |         100 |
+| builds                                  |         100 |
+| bloat-check                             |         100 |
 | tests                                   |         100 |
 | java-tests                              |         100 |
-| bloat-check                             |         100 |
+| darwin                                  |         100 |
+| test-tv-casting-example                 |         100 |
 | build-example-nrf-connect-sdk           |         100 |
 | build-example-open-iot-sdk              |         100 |
 | darwin-tests                            |         100 |
