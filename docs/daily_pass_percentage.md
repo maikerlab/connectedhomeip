@@ -20,6 +20,7 @@
 | build-example-linux-arm                 |         100 |
 | tv-casting-example-darwin               |         100 |
 | test-tv-casting-example                 |         100 |
+| dependabot-updates                      |         100 |
 | bloat-check                             |         100 |
 | qemu                                    |         100 |
 | zap                                     |         100 |
@@ -30,15 +31,15 @@
 | build-example-ti-cc32xx                 |         100 |
 | builds                                  |         100 |
 | build-example-asr                       |         100 |
-| build-example-bouffalolab               |         100 |
 | build-example-nxp                       |         100 |
+| build-example-bouffalolab               |         100 |
 | darwin-tests                            |         100 |
-| cancel-workflows-on-failing-ci          |         100 |
-| cirque                                  |         100 |
 | build-example-stm32                     |         100 |
+| cancel-workflows-on-failing-ci          |         100 |
 | recent-fail-summary                     |         100 |
 | unit-integration-tests                  |         100 |
 | delete-old-artifacts                    |         100 |
+| cirque                                  |         100 |
 | documentation-build                     |         100 |
 | java-tests                              |         100 |
 | lint-code-base                          |         100 |
