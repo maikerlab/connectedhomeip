@@ -1,22 +1,21 @@
 |                                         |   Pass Rate |
 |:----------------------------------------|------------:|
 | cirque                                  |           0 |
-| delete-old-artifacts                    |          96 |
-| minimal-build-linux-configure           |         100 |
 | build-example-ti-cc13xx-26xx            |         100 |
-| issue-labeler                           |         100 |
+| minimal-build-linux-configure           |         100 |
+| build-example-asr                       |         100 |
 | documentation-build                     |         100 |
 | test-tv-casting-example                 |         100 |
-| build-example-asr                       |         100 |
 | darwin-tests                            |         100 |
-| build-example-qpg                       |         100 |
+| build-example-nxp                       |         100 |
+| delete-old-artifacts                    |         100 |
 | codeql                                  |         100 |
 | build-example-mw320                     |         100 |
 | cancel-workflows-on-failing-ci          |         100 |
 | build-example-stm32                     |         100 |
 | build-example-ameba                     |         100 |
-| build-example-nxp                       |         100 |
 | tv-casting-example-darwin               |         100 |
+| build-example-qpg                       |         100 |
 | build-example-nrf-connect-sdk           |         100 |
 | full-builds-android                     |         100 |
 | build-example-infineon                  |         100 |
@@ -26,7 +25,6 @@
 | build-example-tizen                     |         100 |
 | bloat-check                             |         100 |
 | process-stale-issues-and-prs            |         100 |
-| run-misspell                            |         100 |
 | darwin                                  |         100 |
 | unit-integration-tests                  |         100 |
 | build-example-efr32                     |         100 |
