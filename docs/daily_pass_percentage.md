@@ -1,20 +1,21 @@
 |                                |   Pass Rate |
 |:-------------------------------|------------:|
-| builds                         |           0 |
+| tests                          |           0 |
 | qemu                           |         100 |
 | lint-code-base                 |         100 |
 | darwin                         |         100 |
-| test-tv-casting-example        |         100 |
 | tv-casting-example-darwin      |         100 |
 | cirque                         |         100 |
+| builds                         |         100 |
+| test-tv-casting-example        |         100 |
 | build-example-asr              |         100 |
 | unit-integration-tests         |         100 |
-| build-example-stm32            |         100 |
 | delete-old-artifacts           |         100 |
+| build-example-stm32            |         100 |
 | build-example-linux-arm        |         100 |
+| issue-labeler                  |         100 |
 | recent-fail-summary            |         100 |
 | build-example-realtek          |         100 |
-| tests                          |         100 |
 | build-example-esp32            |         100 |
 | build-example-bouffalolab      |         100 |
 | bloat-check                    |         100 |
