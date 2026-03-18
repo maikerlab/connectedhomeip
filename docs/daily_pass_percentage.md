@@ -1,13 +1,13 @@
 |                                |   Pass Rate |
 |:-------------------------------|------------:|
-| cherry-pick-merges             |           0 |
-| dependabot-updates             |          67 |
-| tests                          |          93 |
+| tests                          |          86 |
+| qemu                           |         100 |
 | lint-code-base                 |         100 |
+| darwin                         |         100 |
 | tv-casting-example-darwin      |         100 |
 | cirque                         |         100 |
 | builds                         |         100 |
-| qemu                           |         100 |
+| test-tv-casting-example        |         100 |
 | build-example-asr              |         100 |
 | unit-integration-tests         |         100 |
 | delete-old-artifacts           |         100 |
@@ -15,7 +15,6 @@
 | build-example-linux-arm        |         100 |
 | issue-labeler                  |         100 |
 | recent-fail-summary            |         100 |
-| darwin                         |         100 |
 | build-example-realtek          |         100 |
 | build-example-esp32            |         100 |
 | build-example-bouffalolab      |         100 |
@@ -31,15 +30,14 @@
 | build-example-i-mx-linux       |         100 |
 | process-stale-issues-and-prs   |         100 |
 | cancel-workflows-on-failing-ci |         100 |
-| test-tv-casting-example        |         100 |
 | build-example-ti-cc13xx-26xx   |         100 |
 | full-builds-android            |         100 |
-| codeql                         |         100 |
 | chef-ci                        |         100 |
+| codeql                         |         100 |
+| build-example-nrf-connect-sdk  |         100 |
 | build-example-tizen            |         100 |
 | darwin-tests                   |         100 |
 | validate-gradle-wrapper        |         100 |
-| build-example-nrf-connect-sdk  |         100 |
 | build-example-linux-standalone |         100 |
 | build-example-nxp              |         100 |
 | zap                            |         100 |
