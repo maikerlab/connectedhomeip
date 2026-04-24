@@ -1,13 +1,13 @@
 |                                |   Pass Rate |
 |:-------------------------------|------------:|
-| tests                          |          77 |
-| darwin-tests                   |          77 |
+| tests                          |          22 |
+| darwin-tests                   |          44 |
+| builds                         |          89 |
+| build-example-linux-standalone |         100 |
 | test-tv-casting-example        |         100 |
-| build-example-tizen            |         100 |
-| builds                         |         100 |
 | build-example-i-mx-linux       |         100 |
 | unit-integration-tests         |         100 |
-| build-example-linux-standalone |         100 |
+| build-example-tizen            |         100 |
 | build-example-nxp              |         100 |
 | build-example-bouffalolab      |         100 |
 | cirque                         |         100 |
@@ -18,7 +18,6 @@
 | build-example-qpg              |         100 |
 | lint-code-base                 |         100 |
 | build-example-infineon         |         100 |
-| mypy-type-validation           |         100 |
 | build-example-efr32            |         100 |
 | build-example-linux-arm        |         100 |
 | build-example-nrf-connect-sdk  |         100 |
@@ -31,12 +30,12 @@
 | build-example-stm32            |         100 |
 | build-example-realtek          |         100 |
 | build-example-ameba            |         100 |
-| build-example-ti-cc13xx-26xx   |         100 |
 | qemu                           |         100 |
+| build-example-ti-cc13xx-26xx   |         100 |
 | darwin                         |         100 |
-| build-example-asr              |         100 |
 | build-example-ti-cc32xx        |         100 |
 | delete-old-artifacts           |         100 |
+| build-example-asr              |         100 |
 | chef-ci                        |         100 |
 | recent-fail-summary            |         100 |
 | process-stale-issues-and-prs   |         100 |
