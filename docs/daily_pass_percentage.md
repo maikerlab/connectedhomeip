@@ -43,7 +43,6 @@
 | zap                            |         100 |
 | minimal-build-linux-configure  |         100 |
 | build-example-ti-cc32xx        |         100 |
-| copilot                        |         100 |
 | build-example-efr32            |         100 |
 | validate-gradle-wrapper        |         100 |
 | recent-fail-summary            |         100 |
